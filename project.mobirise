@@ -1481,7 +1481,7 @@
                 "itemPrice": "$49.99 CAD &nbsp;FREE SHIPPING",
                 "oldPriceValue": "$160",
                 "sale": "SALE",
-                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amount=.99&item_name=IsaLean%C2%AE+Shake+-+Creamy+Vanilla&currency_code=CAD\" data-app-placeholder=\"Type Text\" class=\"btn display-7 btn-success\">Buy with Paypal</a>",
+                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amount=49.99&item_name=IsaLean%C2%AE+Shake+-+Creamy+Vanilla&currency_code=CAD\" data-app-placeholder=\"Type Text\" class=\"btn display-7 btn-success\">Buy with Paypal</a>",
                 "image": "@PROJECT_PATH@/assets/images/%7B4ada58b6-f347-49eb-8aac-9087063c22e5%7D-1200x900.png",
                 "thumb": "@PROJECT_PATH@/assets/images/4ada58b6-f347-49eb-8aac-9087063c22e5-1200x900-800x600.png",
                 "customStyle5": "display-5",
