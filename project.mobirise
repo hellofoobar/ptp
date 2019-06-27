@@ -47,7 +47,7 @@
     "siteUrl": "https://packtheprotein.com",
     "sitemapSwitcherAuto": "on",
     "mcShopcart": {
-      "email": "info@packmyprotein.com",
+      "email": "9un888@gmail.com",
       "iconSize": "46",
       "iconColor": "#FFFFFF",
       "backColor": "#000000",
@@ -1504,7 +1504,7 @@
                 "itemPrice": "$49.99 CAD &nbsp;FREE SHIPPING",
                 "oldPriceValue": "$160",
                 "sale": "SALE",
-                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amount=0.99&item_name=IsaLean%C2%AE+Shake+-+Chocolate+Mint&currency_code=CAD\" data-app-placeholder=\"Type Text\" class=\"btn display-7 btn-success\">Buy with Paypal</a>",
+                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amount=49.99&item_name=IsaLean%C2%AE+Shake+-+Chocolate+Mint&currency_code=CAD\" data-app-placeholder=\"Type Text\" class=\"btn display-7 btn-success\">Buy with Paypal</a>",
                 "image": "@PROJECT_PATH@/assets/images/chocolate%20mint-540x406.png",
                 "thumb": "@PROJECT_PATH@/assets/images/chocolate-mint-540x406-540x406.png",
                 "customStyle5": "display-5",
